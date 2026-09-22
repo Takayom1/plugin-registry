@@ -375,6 +375,27 @@
       "version": "1.7.10",
       "downloadUrl": "https://github.com/visadaking/nuclear-mini-player/releases/download/v1.7.10/plugin.zip",
       "addedAt": "2026-09-06T00:00:00Z"
+    },
+    {
+      "id": "nuclear-plugin-spotify-home",
+      "name": "Home & Liked Songs for Spotify",
+      "description": "Spotify home in Nuclear: your Daily Mixes, new releases from your artists, Top 50 charts and Liked Songs as sidebar tabs, plus content for the Dashboard",
+      "author": "Takayom1",
+      "repo": "Takayom1/nuclear-plugin-spotify-sync",
+      "category": "dashboard",
+      "categories": [
+        "dashboard",
+        "playlists"
+      ],
+      "tags": [
+        "spotify",
+        "liked-songs",
+        "daily-mix",
+        "charts",
+        "new-releases",
+        "dashboard"
+      ],
+      "addedAt": "2026-09-22T00:00:00Z"
     }
   ],
   "version": 1
